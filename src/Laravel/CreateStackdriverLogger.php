@@ -1,9 +1,9 @@
 <?php
 
-namespace CodeInternetApplications\MonologStackdriver\Laravel;
+namespace BeyoungLabs\MonologStackdriver\Laravel;
 
 use Monolog\Logger;
-use CodeInternetApplications\MonologStackdriver\StackdriverHandler;
+use BeyoungLabs\MonologStackdriver\StackdriverHandler;
 
 class CreateStackdriverLogger
 {

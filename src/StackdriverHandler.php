@@ -1,6 +1,6 @@
 <?php
 
-namespace CodeInternetApplications\MonologStackdriver;
+namespace BeyoungLabs\MonologStackdriver;
 
 use Monolog\Logger;
 use Monolog\Formatter\LineFormatter;
